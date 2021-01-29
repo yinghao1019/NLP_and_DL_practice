@@ -1,1 +1,1 @@
-# NLP_and_DL_practice
+# NLP_and_DL_practic
