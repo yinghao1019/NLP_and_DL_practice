@@ -14,14 +14,15 @@ And it has some common requirements in below for implementing this Model.
     
 ## **Practices**##  
 *1.[Convolutional Sentiment Analysis Practice](https://github.com/yinghao1019/NLP_and_DL_practice/blob/master/Convolution_Neural_Netowrks_for_sentence_classification_Practice.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/yinghao1019/NLP_and_DL_practice/blob/master/Convolution_Neural_Netowrks_for_sentence_classification_Practice.ipynb)*  
-    
+  
+*This pratice implementation is referenced to [Convolutional Sentiment Analysis](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb).Besides original notebook's Convolution Model,we create extened Model using RNN_layer and traditional ML model,and on top of that we testing different type hyperparmeter tuning for create Model.  
+  
+  
+  
+
+## **Reference**  
   *This pratice implementation is referenced to [Convolutional Sentiment Analysis](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb).
-  .Besides original notebook's Convolution Model,we create extened Model using RNN_layer and traditional ML model,and on top of that we testing different type hyperparmeter tuning for create Model.  
-  
-  
-  
-**##Reference##**  
-  
+  .Besides original notebook's Convolution Model,we create extened Model using RNN_layer and traditional ML model,and on top of that we testing different type hyperparmeter tuning for create Model.
 Below describtion will display Referenced paper by each pratice.if you are very interseting,welcome to trace these papers.
   
 ```bash
