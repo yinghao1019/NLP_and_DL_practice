@@ -24,11 +24,17 @@ And it has some common requirements in below for implementing this Model.
 3.[NMT using Pack pad sequence practice](https://colab.research.google.com/github/yinghao1019/NLP_and_DL_practice/blob/master/Packed_PAD(Prac).ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yinghao1019/NLP_and_DL_practice/blob/master/Packed_PAD(Prac).ipynb)*  
   
 *This pratice implementation is referenced to [ Packed Padded Sequences, Masking, Inference and BLEU](https://colab.research.google.com/github/yinghao1019/NLP_and_DL_practice/blob/master/Packed_PAD(Prac).ipynb). 
+
+4.[Conv_seq2seq](https://github.com/yinghao1019/NLP_and_DL_practice/blob/master/Conv_seq2seq.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yinghao1019/NLP_and_DL_practice/blob/master/Conv_seq2seq.ipynb)*  
   
+*This practice is references to [Convolutional Sequence to Sequence Learning](https://github.com/bentrevett/pytorch-seq2seq/blob/master/5%20-%20Convolutional%20Sequence%20to%20Sequence%20Learning.ipynb).Difference from original notebook,We used exponetial learning rate decay to training lanuage Model stable.  
+
+
   
 ## **Reference**  
 Below describtion will display Referenced paper by each pratice.if you are very interseting,welcome to trace these papers.  
 
 1.[Convolutional Neural Networks for Sentence Classification ](https://arxiv.org/abs/1408.5882)  
 2.[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+4.[Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
 
