@@ -137,9 +137,8 @@ def set_rnd_seed(seed_num):
     torch.cuda.manual_seed_all(seed_num)
     torch.backends.cudnn.deterministic = True
 
+
 # set weight except bias value for N(0,1) value and bias weight for 0
-
-
 def init_model_weights(m):
     for named, params in m.named_parameters():
         if 'weight' in named:
@@ -152,9 +151,8 @@ def count_parameters(model):
     """It's will count total params num for model."""
     return sum(p.numel()for p in model.parameters() if p.requires_grad)
 
+
 # load Model
-
-
 def load_model(model_dir, model_path, device):
     if not os.path.isdir(model_dir):
         raise Exception('Model dir is not existed')
